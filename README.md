@@ -1,2 +1,2 @@
-wp-tooltip-plugin
-=================
+WordPress Tooltip Plugin
+========================
